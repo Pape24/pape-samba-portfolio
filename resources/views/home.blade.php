@@ -74,7 +74,7 @@
                         <i class="bi bi-linkedin"></i>
                     </a>
 
-                    <a href="mailto:votre-email@example.com"
+                    <a href="mailto:papesambatoure91@gmail.com"
                        aria-label="Email">
                         <i class="bi bi-envelope"></i>
                     </a>
