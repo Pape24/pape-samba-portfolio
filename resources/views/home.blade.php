@@ -518,7 +518,7 @@
         </p>
 
         <a
-            href="mailto:votre-email@example.com"
+            href="mailto:papesambatoure91@gmail.com"
             class="btn btn-primary-custom"
         >
             <i class="bi bi-envelope"></i>
