@@ -61,10 +61,10 @@
                 href="{{ route('home') }}"
                 class="navbar-brand portfolio-logo"
             >
-                <span>PS</span>
+                <span>PST</span>
 
                 <strong>
-                    Pape Samba Touré
+                    Mr Touré
                 </strong>
             </a>
 
